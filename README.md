@@ -9,3 +9,4 @@ Pattern scans for GObjects and namepool data, so I dont have to search for the n
 How to use?
 Download CameraFix.dll from the releases or compile the dll yourself
 Use injector of your choice and inject it into "Astro-Win64-Shipping.exe"
+Important! Make sure your character is spawned in.
